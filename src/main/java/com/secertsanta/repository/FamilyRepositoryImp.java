@@ -1,4 +1,4 @@
-package repository;
+package com.secertsanta.repository;
 
 import com.secertsanta.model.Relation;
 

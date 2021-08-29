@@ -7,7 +7,7 @@ import java.util.Random;
 
 import com.secertsanta.model.FamilyMember;
 
-import repository.FamilyRepositoryImp;
+import com.secertsanta.repository.FamilyRepositoryImp;
 
 /**
  * @author anuj singh

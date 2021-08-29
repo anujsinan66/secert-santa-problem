@@ -1,4 +1,4 @@
-package repository;
+package com.secertsanta.repository;
 
 import java.util.List;
 
